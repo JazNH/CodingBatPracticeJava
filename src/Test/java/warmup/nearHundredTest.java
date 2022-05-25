@@ -1,4 +1,6 @@
-import com.codingbat.nearHundred;
+package warmup;
+
+import warmup.nearHundred;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

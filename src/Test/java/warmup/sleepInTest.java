@@ -1,5 +1,6 @@
+package warmup;
+
 import org.junit.jupiter.api.Test;
-import com.codingbat.sleepIn;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

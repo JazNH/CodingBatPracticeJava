@@ -1,4 +1,4 @@
-package com.codingbat;
+package warmup;
 
 public class diff21 {
 
